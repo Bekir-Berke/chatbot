@@ -36,7 +36,7 @@
 ### Backend
 - Rasa
 
-### Veritabanı & AI
+### Chatbot Framework
 - Rasa NLP framework
 - Custom trained language model
 
